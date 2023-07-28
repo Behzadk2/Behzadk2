@@ -24,7 +24,7 @@ About four years of professional programming experience with different programmi
 - Mostly tea :) and sometimes coffee
 
 #### Find me here :
-[Personal website](http://behzadkazemi.ir) | 
+
 [LinkedIn](https://linkedin.com/in/behzadkazemi/) |
 
 

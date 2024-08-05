@@ -75,4 +75,4 @@ With about four years of professional programming experience, I specialize in va
 ## Find me here:
 
 - [LinkedIn](https://linkedin.com/in/behzadkazemi)
-- [GitHub](https://github.com/Behzadk2)
+- [GitHub](https://github.com/Behzadkazemi)

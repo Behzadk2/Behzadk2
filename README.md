@@ -1,78 +1,44 @@
-# Hi, this is **Behzad** :)
+# Hi there, I'm Behzad Kazemi 👋
 
-With about four years of professional programming experience, I specialize in various programming languages and have a strong passion for **JavaScript**, frontend development, augmented and virtual reality, teaching programming, and continuous learning.
+### 🚀 Frontend Engineer | M.Sc. in IT | Ex-Avodaq & Currently @ a&o Hostels
 
----
-
-## Some fields of study:
-
-- Software architecture and analysis and design of software systems
-- Web Programming
-- Training and articulation
-- Philosophy and theology
-- Study about the history of Iran and some other countries
+I'm a passionate **Frontend Developer** based in **Berlin, Germany 🇩🇪**, with over 5 years of experience crafting high-performance, scalable, and user-centric web applications. I bridge the gap between complex software architecture and smooth user experiences.
 
 ---
 
-## Some fields of activities:
+### 👨‍💻 About Me
 
-- **Frontend programming**: HTML, CSS, JavaScript, Bootstrap, React, Angular, ExtJS
-- **Site design**
-- **JavaScript programming and web application development**
-- **PHP programming**
-- **WordPress designing**
-
----
-
-## My Expertise:
-
-- Proficient in **ReactJS** with Vite, Angular, and ExtJS frameworks
-- Experienced in Agile methodologies and collaborative team environments
-- Skilled in real-time updates, form handling, and data integration using WebSockets and backend services
-- Dedicated to optimizing performance, ensuring cross-browser compatibility, and writing clean, maintainable code
-- Proficient in front-end and full-stack development, with a focus on dynamic and responsive user interfaces
+- 🔭 **Currently:** Engineering modern web solutions at **a&o Hostels** in Berlin.
+- 🎓 **Education:** Master’s Degree in **IT** from IU International University of Applied Sciences, Germany.
+- ⚡ **Core Tech:** JavaScript (ES6+), TypeScript, React.js, Vue.js, Angular, Next.js, Redux, HTML5/CSS3/Sass.
+- 🤖 **AI Enthusiast:** Exploring Prompt Engineering, LLMs, and AI integration in modern Frontend workflows.
+- 🏸 **Personal Interests:** Professional Badminton player & Persian Traditional Music (Santur) practitioner — cultivating focus, agility, and balance both in life and code.
+- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/behzadkazemi/) | `behzadkazemi.dev@gmail.com` *(ایمیل خودت را قرار بده)*
 
 ---
 
-## My Interests:
+### 🛠️ Tech Stack & Tools
 
-- Analyzing and checking the code of other programmers
-- Badminton (both playing and analyzing matches)
-- Sci-fi movies
-- Playing the santur
-- Enjoying tea (and sometimes coffee)
+**Languages & Core:**
+`JavaScript (ES6+)` `TypeScript` `HTML5` `CSS3/Sass`
 
----
+**Frontend Frameworks & Libraries:**
+`React.js` `Vue.js` `Angular` `Next.js` `Redux` `Tailwind CSS` `REST APIs`
 
-## Education:
-
-- **Master of IT**, IU Hochschule Berlin (04/2023 – 08/2024)
-- **Bachelor of Computer Science**, IAUM (11/2014 – 02/2019)
+**Dev Tools & AI:**
+`Git` `GitHub` `Webpack` `Vite` `Jest` `Prompt Engineering` `LLM Tools`
 
 ---
 
-## Technical Stack:
+### 📊 GitHub Stats
 
-- **JavaScript's family**: Redux, React-Redux, TypeScript, Next.js, Relay, React-Router, Bootstrap, Tailwind, Material UI
-- **Back-end technologies**: Node.js, Express.js, NestJS, MongoDB, REST API, MySQL, NoSQL, PostgreSQL
-- **Web development best practices**: Performance optimization, responsive design, server-side rendering
-- **Version control systems**: Git
-- **Project management tools**: Jira, Trello (Agile methodologies)
-- **Payment APIs**: Stripe, PayPal, Braintree
-- **Cloud APIs**: AWS, Azure, Google Cloud
-- **Third-party services**: Twilio, SendGrid, Mailchimp
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=behzadkazemi&show_icons=true&theme=tokyonight&hide_border=true" alt="Behzad's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behzadkazemi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+</p>
 
 ---
 
-## Languages:
+### 🤝 Connect with Me
 
-- **English** (C1)
-- **German** (Intermediate B1)
-- **Persian** (Native)
-
----
-
-## Find me here:
-
-- [LinkedIn](https://linkedin.com/in/behzadkazemi)
-- [GitHub](https://github.com/Behzadkazemi)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/behzadkazemi/)
